@@ -1,2 +1,2 @@
 # inar-github
-yazılım için geldik, kapıyı açar mısınız?!
+yazılım için geldik, open the door?!
